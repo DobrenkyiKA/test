@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(update-config)",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_snapshot"
+    ]
+  }
+}
